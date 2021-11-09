@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrantws":{"guestpath":"/vagrantws","hostpath":"D:/codingzone/devops/vagrant/devwork","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/codingzone/devops/vagrant/syncfolders","disabled":false,"__vagrantfile":true}}}
