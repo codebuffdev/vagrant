@@ -1,2 +1,2 @@
 # vagrant
-vagrant Virtualization Automation tool 
+Virtualization Automation tool 
